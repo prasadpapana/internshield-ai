@@ -1,0 +1,8 @@
+{
+  "project": {
+    "name": "InternShield AI",
+    "version": "1.0.0",
+    "type": "web-app-and-chrome-extension",
+    "description": "AI-powered internship verification platform"
+  }
+}
